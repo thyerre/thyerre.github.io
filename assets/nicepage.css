@@ -16345,7 +16345,7 @@ h6 {
 }
 .u-body {
   color: #111111;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 /*end-variables color*/
 /*begin-variables font*/
@@ -17251,12 +17251,12 @@ a.u-link.u-hover-color-4-dark-1:hover {
 .u-body.u-color-4,
 .u-container-style.u-color-4:before {
   color: #111111;
-  background-color: #3ef029;
+  background-color: #fff;
 }
 .u-button-style.u-color-4,
 .u-button-style.u-color-4[class*="u-border-"] {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 .u-button-style.u-color-4:hover,
 .u-button-style.u-color-4[class*="u-border-"]:hover,
@@ -17274,7 +17274,7 @@ a.u-button-style.u-button-style.u-active-color-4[class*="u-border-"]:active,
 a.u-button-style.u-button-style.u-active-color-4.active,
 a.u-button-style.u-button-style.u-active-color-4[class*="u-border-"].active {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 a.u-link.u-hover-color-4:hover {
   color: #3ef029 !important;
@@ -17379,12 +17379,12 @@ a.u-link.u-hover-color-4-light-3:hover {
 .u-body.u-color-4-base,
 .u-container-style.u-color-4-base:before {
   color: #111111;
-  background-color: #3ef029;
+  background-color: #fff;
 }
 .u-button-style.u-color-4-base,
 .u-button-style.u-color-4-base[class*="u-border-"] {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 .u-button-style.u-color-4-base:hover,
 .u-button-style.u-color-4-base[class*="u-border-"]:hover,
@@ -17393,7 +17393,7 @@ a.u-link.u-hover-color-4-light-3:hover {
 .u-button-style.u-button-style.u-color-4-base.active,
 .u-button-style.u-button-style.u-color-4-base[class*="u-border-"].active {
   color: #111111 !important;
-  background-color: #28ec11 !important;
+  background-color: #fff !important;
 }
 a.u-button-style.u-hover-color-4-base:hover,
 a.u-button-style.u-hover-color-4-base[class*="u-border-"]:hover,
@@ -17402,7 +17402,7 @@ a.u-button-style.u-button-style.u-active-color-4-base[class*="u-border-"]:active
 a.u-button-style.u-button-style.u-active-color-4-base.active,
 a.u-button-style.u-button-style.u-active-color-4-base[class*="u-border-"].active {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 a.u-link.u-hover-color-4-base:hover {
   color: #3ef029 !important;
@@ -18531,12 +18531,12 @@ a.u-link.u-hover-palette-4-dark-1:hover {
 .u-body.u-palette-4,
 .u-container-style.u-palette-4:before {
   color: #111111;
-  background-color: #3ef029;
+  background-color: #fff;
 }
 .u-button-style.u-palette-4,
 .u-button-style.u-palette-4[class*="u-border-"] {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 .u-button-style.u-palette-4:hover,
 .u-button-style.u-palette-4[class*="u-border-"]:hover,
@@ -18554,7 +18554,7 @@ a.u-button-style.u-button-style.u-active-palette-4[class*="u-border-"]:active,
 a.u-button-style.u-button-style.u-active-palette-4.active,
 a.u-button-style.u-button-style.u-active-palette-4[class*="u-border-"].active {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 a.u-link.u-hover-palette-4:hover {
   color: #3ef029 !important;
@@ -18659,12 +18659,12 @@ a.u-link.u-hover-palette-4-light-3:hover {
 .u-body.u-palette-4-base,
 .u-container-style.u-palette-4-base:before {
   color: #111111;
-  background-color: #3ef029;
+  background-color: #fff;
 }
 .u-button-style.u-palette-4-base,
 .u-button-style.u-palette-4-base[class*="u-border-"] {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 .u-button-style.u-palette-4-base:hover,
 .u-button-style.u-palette-4-base[class*="u-border-"]:hover,
@@ -18682,7 +18682,7 @@ a.u-button-style.u-button-style.u-active-palette-4-base[class*="u-border-"]:acti
 a.u-button-style.u-button-style.u-active-palette-4-base.active,
 a.u-button-style.u-button-style.u-active-palette-4-base[class*="u-border-"].active {
   color: #111111 !important;
-  background-color: #3ef029 !important;
+  background-color: #fff !important;
 }
 a.u-link.u-hover-palette-4-base:hover {
   color: #3ef029 !important;
