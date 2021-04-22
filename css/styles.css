@@ -10127,3 +10127,8 @@ section.resume-section .resume-section-content {
 .li-port {
   margin-bottom: 50px;
 }
+
+.icon-whatsapp{
+  cursor:pointer;
+  color:#027c1ec2;
+}
