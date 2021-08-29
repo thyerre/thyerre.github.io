@@ -6712,6 +6712,17 @@ button.bg-primary:focus {
     background-color: #f8ad8f !important;
 }
 
+.bg-primary-protfolio {
+    background-image: linear-gradient(#17307a, #436be4) !important;
+}
+
+a.bg-primary-protfolio:hover,
+a.bg-primary-protfolio:focus,
+button.bg-primary-protfolio:hover,
+button.bg-primary-protfolio:focus {
+    background-color: #f8ad8f !important;
+}
+
 .bg-secondary {
     background-color: #6c757d !important;
 }
