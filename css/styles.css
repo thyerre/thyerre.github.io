@@ -7119,7 +7119,7 @@ button.bg-dark:focus {
         display: inline-flex !important;
     }
     section.resume-section {
-        height: auto !important;
+        min-height: 200px !important;
     }
 }
 
