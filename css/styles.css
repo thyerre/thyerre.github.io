@@ -7118,6 +7118,9 @@ button.bg-dark:focus {
     .d-print-inline-flex {
         display: inline-flex !important;
     }
+    section.resume-section {
+        height: auto !important;
+    }
 }
 
 .embed-responsive {
