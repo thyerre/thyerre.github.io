@@ -7119,7 +7119,14 @@ button.bg-dark:focus {
         display: inline-flex !important;
     }
     #about {
-        height: 350px !important;
+        height: 420px !important;
+    }
+    #experience {
+        padding-top: 30px !important;
+    }
+    #education {
+        height: 1100px !important;
+        padding-top: 10px !important;
     }
 }
 
